@@ -1,0 +1,52 @@
+CUSTOM END-USER LICENSE AGREEMENT (EULA)
+Copyright (c) 2026 Ryuichi Tanigawa. All rights reserved.
+
+This software ("ADPLS" or the "Software") consists of proprietary code and
+specific components under the terms defined below. By downloading, installing,
+or using the Software, you agree to be bound by the terms of this License.
+
+1. PERMITTED USE (Academic & Non-Commercial Only)
+
+(a) ACADEMIC & NON-COMMERCIAL USE:
+Users are permitted to use this Software free of charge solely for
+personal, educational, academic, and non-commercial research purposes.
+
+(b) COMMERCIAL USE RESTRICTED:
+Any commercial use, including but not limited to use within a commercial
+enterprise, for-profit research, or integration into commercial services
+or products, is strictly prohibited without a separate commercial license
+from the Author.
+
+2. ACADEMIC & PROFESSIONAL CITATION
+
+If you use this Software or its generated results in any published research,
+academic papers, theses, presentations, or reports, you are required to
+properly cite the Author (Ryuichi Tanigawa) and the Software name ("ADPLS").
+
+3. REDISTRIBUTION RESTRICTIONS
+
+Redistributing any components or the Software as a whole to third parties
+without prior written permission from the Author is strictly prohibited.
+
+4. RESTRICTIONS
+
+(a) REVERSE ENGINEERING:
+You shall not decompile, disassemble, reverse engineer, or otherwise
+attempt to derive the source code of any proprietary parts of this
+Software.
+
+(b) MODIFICATION:
+You shall not modify, adapt, translate, or create derivative works
+based upon the Software or any portion thereof.
+
+5. DISCLAIMER OF WARRANTY AND LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE. USE OF THE SOFTWARE IS ENTIRELY AT
+YOUR OWN RISK.
